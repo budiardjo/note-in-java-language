@@ -61,6 +61,8 @@ public class mathematicalExpressions {
         operand1 = 10; // it changes variable from 5 to 10
         result = ++operand1;
 
+
+        //what the fuck is goin on in here
         System.out.println(result);
     }
 }
